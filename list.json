@@ -1,4 +1,4 @@
 [{
-  name:'su'
-  url:'http://test'
+  "name":"su",
+  "url":"http://test"
 }]
