@@ -43,6 +43,21 @@
     "url":"http://11.down.thenightblindness.com:8000/fc/BOMBMAN.zip",
     "fileName":"BOMBMAN.zip",
     "nesName":"BOMBMAN.NES"
+},{
+    "name":"淘金者",
+    "url":"http://11.down.thenightblindness.com:8000/fc/Lode.Runner(J).zip",
+    "fileName":"Lode.Runner(J).zip",
+    "nesName":"Lode Runner (J).nes"
+},{
+    "name":"马戏团",
+    "url":"http://11.down.thenightblindness.com:8000/fc/Circus.Charlie(J).zip",
+    "fileName":"Circus.Charlie(J).zip",
+    "nesName":"Circus Charlie (J).nes"
+},{
+    "name":"雪人兄弟",
+    "url":"http://11.down.thenightblindness.com:8000/fc/SNOWBROS.zip",
+    "fileName":"SNOWBROS.zip",
+    "nesName":"SNOWBROS.NES"
 }]
 
 
