@@ -4,16 +4,6 @@
 	"fileName": "Contra.Forge.zip",
 	"nesName": "Contra Forge.nes"
 }, {
-	"name": "魂斗罗2中文版",
-	"url": "http://zb3.paopaoche.net/zob3/hdl2fccn.zip",
-	"fileName": "hdl2fccn.zip",
-	"nesName": "魂斗罗2中文版.nes"
-}, {
-	"name": "空中魂斗罗",
-	"url": " http://zb3.paopaoche.net/zob3/kzhdlfc.zip",
-	"fileName": "kzhdlfc.zip",
-	"nesName": "345_最后的使命.nes"
-}, {
 	"name": "快打旋风",
 	"url": "http://11.down.thenightblindness.com:8000/fc/Mighty.Final.Fight(J).zip",
 	"fileName": "Mighty.Final.Fight(J).zip",
@@ -83,9 +73,4 @@
 	"url": "http://11.down.thenightblindness.com:8000/fc/Chip.n.Dale.Rescue.Rangers.2(U).zip",
 	"fileName": "Chip.n.Dale.Rescue.Rangers.2(U).zip",
 	"nesName": "0382 - Chip 'n Dale Rescue Rangers 2 (USA).nes"
-}, {
-	"name": "忍者神龟格斗",
-	"url": "http://a.xzfile.com/down1/rzsggd_downcc.zip",
-	"fileName": "rzsggd_downcc.zip",
-	"nesName": "忍者神龟格斗.nes"
 }]
