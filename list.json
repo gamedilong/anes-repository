@@ -1,94 +1,91 @@
 [{
-  "name":"魂斗罗外传",
-  "url":"http://11.down.thenightblindness.com:8000/fc/Contra.Forge.zip",
-  "fileName":"Contra.Forge.zip",
-  "nesName":"Contra Forge.nes"
-},{
-  "name":"魂斗罗2中文版",
-  "url":"http://zb3.paopaoche.net/zob3/hdl2fccn.zip",
-  "fileName":"hdl2fccn.zip",
-  "nesName":"魂斗罗2中文版.nes"
-},{
-  "name":"空中魂斗罗",
-  "url":" http://zb3.paopaoche.net/zob3/kzhdlfc.zip",
-  "fileName":"kzhdlfc.zip",
-  "nesName":"345_最后的使命.nes"
-},{
-  "name":"快打旋风",
-   "url":"http://11.down.thenightblindness.com:8000/fc/Mighty.Final.Fight(J).zip",
-   "fileName":"Mighty.Final.Fight(J).zip",
-   "nesName":"Mighty Final Fight (J).nes"
-},{
-  "name":"西游记",
-   "url":"http://11.down.thenightblindness.com:8000/fc/Saiyuuki.World(J).zip",
-  "fileName":"Saiyuuki.World(J).zip",
-   "nesName":"Saiyuuki World (J).nes"
-},{
-  "name":"三目童子",
-   "url":"http://11.down.thenightblindness.com:8000/fc/Mitsume.Ga.Tooru(J).zip",
-   "fileName":"Mitsume.Ga.Tooru(J).zip",
-  "nesName":"Mitsume Ga Tooru (J).nes"
-},{
-  "name":"彩虹岛",
-   "url":"http://11.down.thenightblindness.com:8000/fc/Rainbow.Islands-The.Story.of.Bubble.Bobble.2(J).zip",
-   "fileName":"Rainbow.Islands-The.Story.of.Bubble.Bobble.2(J).zip",
-   "nesName":"Rainbow Islands - The Story of Bubble Bobble 2 (J).nes"
-},{
-    "name":"忍者猫9合1",
-    "url":"http://11.down.thenightblindness.com:8000/fc/9in1Ninja.Cat.zip",
-    "fileName":"9in1Ninja.Cat.zip",
-    "nesName":"9 in 1 (Ninja Cat) (Unl).nes"
-},{
-    "name":"中国象棋",
-    "url":"http://11.down.thenightblindness.com:8000/fc/Zhong.Guo.Xiang.Qi.zip",
-    "fileName":"Zhong.Guo.Xiang.Qi.zip",
-    "nesName":"Zhong Guo Xiang Qi (Asia) [p2].nes" 
-},{
-    "name":"1942",
-    "url":"http://02.bd-pcgame.720582.com:8090//emu/fc/roms/1942(JU).zip",
-    "fileName":"1942(JU).zip",
-    "nesName":"1942 (JU).nes"
-},{
-    "name":"炸弹人合集",
-    "url":"http://11.down.thenightblindness.com:8000/fc/BOMBMAN.zip",
-    "fileName":"BOMBMAN.zip",
-    "nesName":"BOMBMAN.NES"
-},{
-    "name":"淘金者",
-    "url":"http://11.down.thenightblindness.com:8000/fc/Lode.Runner(J).zip",
-    "fileName":"Lode.Runner(J).zip",
-    "nesName":"Lode Runner (J).nes"
-},{
-    "name":"马戏团",
-    "url":"http://11.down.thenightblindness.com:8000/fc/Circus.Charlie(J).zip",
-    "fileName":"Circus.Charlie(J).zip",
-    "nesName":"Circus Charlie (J).nes"
-},{
-    "name":"雪人兄弟",
-    "url":"http://11.down.thenightblindness.com:8000/fc/SNOWBROS.zip",
-    "fileName":"SNOWBROS.zip",
-    "nesName":"SNOWBROS.NES"
-},{
-    "name":"超时空要塞",
-    "url":"http://11.down.thenightblindness.com:8000/fc/Choujikuu.Yousai-Macross(J).zip",
-    "fileName":"Choujikuu.Yousai-Macross(J).zip",
-    "nesName":"Choujikuu Yousai - Macross (J).nes"
-},{
-    "name":"坦克大战",
-    "url":"http://11.down.thenightblindness.com:8000/fc/Battle.City(J).zip",
-    "fileName":"Battle.City(J).zip",
-    "nesName":"Battle City (J).nes"
-},{
-    "name":"松鼠大作战2",
-    "url":"http://11.down.thenightblindness.com:8000/fc/Chip.n.Dale.Rescue.Rangers.2(U).zip",
-    "fileName":"Chip.n.Dale.Rescue.Rangers.2(U).zip",
-    "nesName":"0382 - Chip 'n Dale Rescue Rangers 2 (USA).nes"
-},{
-    "name":"忍者神龟格斗",
-    "url":"http://a.xzfile.com/down1/rzsggd_downcc.zip",
-    "fileName":"rzsggd_downcc.zip",
-    "忍者神龟格斗.nes"
+	"name": "魂斗罗外传",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Contra.Forge.zip",
+	"fileName": "Contra.Forge.zip",
+	"nesName": "Contra Forge.nes"
+}, {
+	"name": "魂斗罗2中文版",
+	"url": "http://zb3.paopaoche.net/zob3/hdl2fccn.zip",
+	"fileName": "hdl2fccn.zip",
+	"nesName": "魂斗罗2中文版.nes"
+}, {
+	"name": "空中魂斗罗",
+	"url": " http://zb3.paopaoche.net/zob3/kzhdlfc.zip",
+	"fileName": "kzhdlfc.zip",
+	"nesName": "345_最后的使命.nes"
+}, {
+	"name": "快打旋风",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Mighty.Final.Fight(J).zip",
+	"fileName": "Mighty.Final.Fight(J).zip",
+	"nesName": "Mighty Final Fight (J).nes"
+}, {
+	"name": "西游记",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Saiyuuki.World(J).zip",
+	"fileName": "Saiyuuki.World(J).zip",
+	"nesName": "Saiyuuki World (J).nes"
+}, {
+	"name": "三目童子",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Mitsume.Ga.Tooru(J).zip",
+	"fileName": "Mitsume.Ga.Tooru(J).zip",
+	"nesName": "Mitsume Ga Tooru (J).nes"
+}, {
+	"name": "彩虹岛",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Rainbow.Islands-The.Story.of.Bubble.Bobble.2(J).zip",
+	"fileName": "Rainbow.Islands-The.Story.of.Bubble.Bobble.2(J).zip",
+	"nesName": "Rainbow Islands - The Story of Bubble Bobble 2 (J).nes"
+}, {
+	"name": "忍者猫9合1",
+	"url": "http://11.down.thenightblindness.com:8000/fc/9in1Ninja.Cat.zip",
+	"fileName": "9in1Ninja.Cat.zip",
+	"nesName": "9 in 1 (Ninja Cat) (Unl).nes"
+}, {
+	"name": "中国象棋",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Zhong.Guo.Xiang.Qi.zip",
+	"fileName": "Zhong.Guo.Xiang.Qi.zip",
+	"nesName": "Zhong Guo Xiang Qi (Asia) [p2].nes"
+}, {
+	"name": "1942",
+	"url": "http://02.bd-pcgame.720582.com:8090//emu/fc/roms/1942(JU).zip",
+	"fileName": "1942(JU).zip",
+	"nesName": "1942 (JU).nes"
+}, {
+	"name": "炸弹人合集",
+	"url": "http://11.down.thenightblindness.com:8000/fc/BOMBMAN.zip",
+	"fileName": "BOMBMAN.zip",
+	"nesName": "BOMBMAN.NES"
+}, {
+	"name": "淘金者",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Lode.Runner(J).zip",
+	"fileName": "Lode.Runner(J).zip",
+	"nesName": "Lode Runner (J).nes"
+}, {
+	"name": "马戏团",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Circus.Charlie(J).zip",
+	"fileName": "Circus.Charlie(J).zip",
+	"nesName": "Circus Charlie (J).nes"
+}, {
+	"name": "雪人兄弟",
+	"url": "http://11.down.thenightblindness.com:8000/fc/SNOWBROS.zip",
+	"fileName": "SNOWBROS.zip",
+	"nesName": "SNOWBROS.NES"
+}, {
+	"name": "超时空要塞",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Choujikuu.Yousai-Macross(J).zip",
+	"fileName": "Choujikuu.Yousai-Macross(J).zip",
+	"nesName": "Choujikuu Yousai - Macross (J).nes"
+}, {
+	"name": "坦克大战",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Battle.City(J).zip",
+	"fileName": "Battle.City(J).zip",
+	"nesName": "Battle City (J).nes"
+}, {
+	"name": "松鼠大作战2",
+	"url": "http://11.down.thenightblindness.com:8000/fc/Chip.n.Dale.Rescue.Rangers.2(U).zip",
+	"fileName": "Chip.n.Dale.Rescue.Rangers.2(U).zip",
+	"nesName": "0382 - Chip 'n Dale Rescue Rangers 2 (USA).nes"
+}, {
+	"name": "忍者神龟格斗",
+	"url": "http://a.xzfile.com/down1/rzsggd_downcc.zip",
+	"fileName": "rzsggd_downcc.zip",
+	"nesName": "忍者神龟格斗.nes"
 }]
-
-
-
