@@ -27,5 +27,8 @@ nesName  该压缩文件解压后的nes内容完整名称 (压缩文件名，与
 ```
 
 ## FAQ
-* ***下载一直在99%***   该问题已经升级了一个0.02的版本有遇到的同学可以更新下插件，另外最好删除一下C盘用户文件夹下的.anes文件重新打开即可。新的第三方如果没有挂掉的话，应该是可以正常下载了。
-* ***兼容性问题*** 目前支持vscode版本 1.47.0+
+* **下载一直在99%**   该问题已经升级了一个0.02的版本有遇到的同学可以更新下插件，另外最好删除一下C盘用户文件夹下的.anes文件重新打开即可。新的第三方如果没有挂掉的话，应该是可以正常下载了。
+* **兼容性问题** 目前支持vscode版本 1.47.0+
+* **remote列表不显示** 原因可能是github的资源列表没用下载成功，可以删掉(C:\Users\XXXX\.anes)目录，然后关闭vscode重新打开会重新下载。如果依然没有，可直接下载  https://github.com/gamedilong/anes-repository/archive/master.zip  将内容解压的C:\Users\XXXX\.anes\remote下
+ 最终目录结构如下 C:\Users\XXX\.anes\remote\anes-repository-master  
+ 注 : mac目录 为 /User/XXX/.anes
