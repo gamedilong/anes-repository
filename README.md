@@ -32,3 +32,4 @@ nesName  该压缩文件解压后的nes内容完整名称 (压缩文件名，与
 * **remote列表不显示** 原因可能是github的资源列表没用下载成功，可以删掉(C:\Users\XXXX\.anes)目录，然后关闭vscode重新打开会重新下载。如果依然没有，可直接下载  https://github.com/gamedilong/anes-repository/archive/master.zip  将内容解压的C:\Users\XXXX\.anes\remote下
  最终目录结构如下 C:\Users\XXX\.anes\remote\anes-repository-master  
  注 : mac目录 为 /User/XXX/.anes
+* **本地rom打开黑屏问题** 使用的jsnes模拟器，部分rom不支持。后续如果找到好的mapper适配方案，会优先适配issue里反馈的比较多的rom。 
