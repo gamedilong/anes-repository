@@ -4,6 +4,7 @@
 
 * 该仓库是小霸王插件的，远程资源仓库，内容主要在list.json中维护，文档持续完善中。
 * 有其他问题意见也可以加qq群 858843908 沟通交流
+* 插件地址 https://marketplace.visualstudio.com/items?itemName=gamedilong.anes
 
 ## 资源更新 
 * 如果有想要添加得资源，可以在群里反馈，也可以fork分支PR上来，测试通过后会尽快发布
