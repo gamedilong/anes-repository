@@ -4,6 +4,11 @@
 	"fileName": "tstd.zip",
 	"nesName": "tstd.nes"
 },{
+	"name": "魂斗罗",
+	"url": "https://raw.githubusercontent.com/thatboy-echo/NES_Reop/main/nes/CONTRA.zip",
+	"fileName": "CONTRA.zip",
+	"nesName": "CONTRA.nes"
+},{
 	"name": "魂斗罗外传",
 	"url": "http://11.down.thenightblindness.com:8000/fc/Contra.Forge.zip",
 	"fileName": "Contra.Forge.zip",
@@ -88,4 +93,9 @@
 	"url": "http://11.down.thenightblindness.com:8000/fc/Double.Dragon.3-The.Rosetta.Stone(J).zip",
 	"fileName": "Double.Dragon.3-The.Rosetta.Stone(J).zip",
 	"nesName": "Double Dragon 3 - The Rosetta Stone (J).nes"
+},{
+	"name": "挖地雷",
+	"url": "https://raw.githubusercontent.com/thatboy-echo/NES_Reop/main/nes/MineSweeper.zip",
+	"fileName": "MineSweeper.zip",
+	"nesName": "game.nes"
 }]
