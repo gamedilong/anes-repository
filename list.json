@@ -1,4 +1,14 @@
 [{
+	"name": "魂斗罗",
+	"url": "http://www.dream-island.org/roms/fc100/Contra.zip",
+	"fileName": "Contra.zip",
+	"nesName": "CONTRA.NES"
+},{
+	"name": "魂斗罗2",
+	"url": "http://www.dream-island.org/roms/fc100/Superc.zip",
+	"fileName": "Superc.zip",
+	"nesName": "SUPERC.NES"
+},{
 	"name": "吞食天地",
 	"url": "http://11.down.thenightblindness.com:8000/fc/tstd.zip",
 	"fileName": "tstd.zip",
