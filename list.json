@@ -106,4 +106,9 @@
 	"url": "https://hub.fastgit.org/NESretropier/NES/raw/master/Blaster%20Master.nes",
 	"fileName": "Blaster Master.nes",
 	"nesName": "Blaster Master.nes"
+},{
+	"name": "恶魔城",
+	"url": "https://hub.fastgit.org/NESretropier/NES/raw/master/Castlevania.nes",
+	"fileName": "Castlevania",
+	"nesName": "Castlevania"
 }]
