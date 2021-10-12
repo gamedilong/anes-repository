@@ -46,5 +46,34 @@
 	"fileName": "Life Force [!].nes",
 	"nesName": "Life Force [!].nes"	
 	
+},{
+	"name": "淘金者",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/TaoJinZhe.nes",
+	"fileName": "TaoJinZhe.nes",
+	"nesName": "TaoJinZhe.nes"	
+},{
+	"name": "俄罗斯方块",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/Tetris%20(U)%20%5B!%5D.nes",
+	"fileName": "Tetris (U) [!].nes",
+	"nesName": "Tetris (U) [!].nes"	
+},{
+	"name": "忍者龙剑传3",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/Ninja_Gaiden3.nes",
+	"fileName": "Ninja_Gaiden3.nes",
+	"nesName": "Ninja_Gaiden3.nes"	
+},{
+	"name": "赤影战士",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/Kage.nes",
+	"fileName": "Kage.nes",
+	"nesName": "Kage.nes"	
+},{
+	"name": "撞球咖啡馆",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/Shufflepuck%20Cafe.nes",
+	"fileName": "Shufflepuck Cafe.nes",
+	"nesName": "Shufflepuck Cafe.nes"	
+},{
+	"name": "泡泡龙",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/Bubble%20Bobble%20(U).nes",
+	"fileName": "Bubble Bobble (U).nes",
+	"nesName": "Bubble Bobble (U).nes"	
 }]
-
