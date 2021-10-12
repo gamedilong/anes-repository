@@ -76,4 +76,34 @@
 	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/Bubble%20Bobble%20(U).nes",
 	"fileName": "Bubble Bobble (U).nes",
 	"nesName": "Bubble Bobble (U).nes"	
+},{
+	"name": "五子棋",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/5.nes",
+	"fileName": "5.nes",
+	"nesName": "5.nes"	
+},{
+	"name": "坦克大战",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/(J)%20Battle%20City.nes",
+	"fileName": "(J) Battle City.nes",
+	"nesName": "(J) Battle City.nes"	
+},{
+	"name": "功夫",
+	"url": "https://hub.fastgit.org/lucaschn/fcgame/raw/master/(J)%20(V1.2)%20Yie%20Ar%20Kung-Fu%20%5B!%5D.nes",
+	"fileName": "(J) (V1.2) Yie Ar Kung-Fu [!].nes",
+	"nesName": "(J) (V1.2) Yie Ar Kung-Fu [!].nes"	
+},{
+	"name": "罗罗大冒险3",
+	"url": "https://hub.fastgit.org/NESretropier/NES/raw/master/Adventures%20of%20Lolo%203.nes",
+	"fileName": "Adventures of Lolo 3.nes",
+	"nesName": "Adventures of Lolo 3.nes"	
+},{
+	"name": "希魔复活",
+	"url": "https://hub.fastgit.org/NESretropier/NES/raw/master/Bionic%20Commando.nes",
+	"fileName": "Bionic Commando.nes",
+	"nesName": "Bionic Commando.nes"
+},{
+	"name": "超惑星战记",
+	"url": "https://hub.fastgit.org/NESretropier/NES/raw/master/Blaster%20Master.nes",
+	"fileName": "Blaster Master.nes",
+	"nesName": "Blaster Master.nes"
 }]
